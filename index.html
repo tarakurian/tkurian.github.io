@@ -4,10 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Website</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #e6f7f3; /* Pastel green */
       margin: 0;
       padding: 0;
     }
@@ -15,10 +16,23 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
-      background-color: #f0f0f0;
+      background-color: #ffffff; /* White */
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      animation: fadeIn 0.5s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
     h1, h2 {
-      color: #333;
+      color: #1a8c9d; /* Pastel blue */
     }
     ul {
       list-style-type: none;
@@ -28,13 +42,14 @@
       margin-bottom: 10px;
     }
     a {
-      color: #007bff;
+      color: #116466; /* Dark pastel green */
       text-decoration: none;
     }
     a:hover {
       text-decoration: underline;
     }
   </style>
+
 </head>
 <body>
   <div class="container">
