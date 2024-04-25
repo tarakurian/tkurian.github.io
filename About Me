@@ -34,4 +34,67 @@
         </header>
         <section class="section">
             <h2>About Me</h2>
-            <p>I am [Your Name], a passionate student dedicated to academic excellence and personal growth. This website serves as a platform to showcase my academic journey, achievements, and aspirations.</p>
+            <p>I am Tara Kurian, a passionate student dedicated to bridging the gap between data science and politics. This website serves as a platform to showcase my academic journey, achievements, and aspirations.</p>
+</section>
+        <section class="section">
+            <h2>Education</h2>
+            <p>I am currently pursuing my BA in Poltical Science at Agnes Scott College.</p>
+        <h3>Relevant Coursework</h3>
+            <ul>
+                <li>PHY 131 - Introduction to Computer Programming</li>
+                <li>PHY 231 - Think Like a Data Scientist</li>
+                <li>BUS 202 - Organizational Behavior</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Work Experience</h2>
+            <p>During my academic journey, I've gained valuable work experience:</p>
+            <ul>
+                <li><strong>Consulate General of Switzerland - SCALE Extern</strong><br>
+                    - Developed graphic materials for public diplomacy plan using branding materials
+                </li>
+                <li><strong>Agnes Scott College Office of Admission - Enrollment Marketing Assistant</strong><br>
+                    - Developed marketing materials and social content calendar, leveraging Meta analytics.<br>
+                    - Researched and implemented social media tools, enhancing campaigns on platforms like Pinterest.<br>
+                    - Directed Student Outcomes project, leveraging data from Office of Institutional Research to provide evergreen understanding of student futures post graduation
+                </li>
+                <li><strong>Intern - Office of the President at Agnes Scott College</strong><br>
+                    - Ensured data quality for Office of Institutional Research and Effectiveness projects<br>
+                    - Managed Fleet Electrification project for Office of Sustainability and Clean Cities Georgia<br>
+                    - Supported relationship management between Agnes Scott alumni and Office of the President through various
+Atlanta, GA
+                </li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Campus and Community Involvement</h2>
+            <ul>
+                <li><strong>Student Alumnae Ambassadors - Vice President</strong><br>
+                    - Direct budget expenditures for organizations<br>
+                    - Design events for alumni to attend in relation to Agnes Scott College’s mission
+                </li>
+                <li><strong>Masala SACE - Social Media Manager</strong><br>
+                    - Managed social media accounts and graphic design for Agnes Scott College’s South Asian Cultural Club<br>
+                    - Promoted events hosted by Masala SACE to Decatur community and increased event turnout<br>
+                    - Led photography efforts for social events held by Masala SACE	
+                </li>
+                <li><strong>Secretary</strong><br>
+                    - Manage communication between executive board, club members, and other student organizations
+                </li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Skills</h2>
+            <p>Here are some of the skills I've developed:</p>
+            <ul>
+                <li>Social Media Marketing</li>
+                <li>Advanced French</li>
+                <!-- Add more skills as needed -->
+            </ul>
+        </section>
+        <footer>
+            <p>Thank you for visiting my academic portfolio. For inquiries or collaborations, feel free to contact me at [Your Email Address].</p>
+        </footer>
+    </div>
+</body>
+</html>
